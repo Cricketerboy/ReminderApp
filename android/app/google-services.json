@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98780444144",
+    "project_id": "remainderapp-3361e",
+    "storage_bucket": "remainderapp-3361e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98780444144:android:046f37c977139d26b3d935",
+        "android_client_info": {
+          "package_name": "com.example.remainder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQ7xatgkFPFq6Z-nQ1spAniZOvZA0QoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
